@@ -1,8 +1,8 @@
 [package]
-name = "Nyarupad-VTS"
+name = "OVR-to-VTS"
 version = "0.1.0"
 edition = "2021"
-authors = ["Maruseu (@nyaruseu)"]
+authors = ["Kate Balthazar based on work by Maruseu (@nyaruseu)"]
 [dependencies]
 anyhow = "1.0.47"
 directories = "4.0.1"
